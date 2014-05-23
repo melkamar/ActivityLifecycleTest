@@ -20,7 +20,7 @@ public class MyActivity extends Activity {
     protected void onStart() {
         super.onStart();
 
-        Log.w("MyActivity", "onStart");
+        Log.w("MyActivity", "onStart PA");
     }
 
     @Override
